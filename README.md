@@ -1,2 +1,5 @@
 # odin-recipes
 My current project is my first major assignment in the curriculum. I'm tasked with creating a food recipe website of some of my favorite meals. This project will test the fundamentals of git, github, and html. By using html, I will be able to create paragraphs, headings, links, and include media.
+This is my second time completing this project. I had trouble setting up the repository and linking it to the work I was completing in my first attempt.
+For my second attempt, I ensured I was utilizing "git add", "git commit", and "git push" to ensure I'm sending the files to github.
+I can now clearly see the files in github and have a better understanding of setting up the repository, linking/cloning it to the computer, and ensuring I'm updating/adding/commiting/pushing work completed.

@@ -1,1 +1,2 @@
 # odin-recipes
+My current project is my first major assignment in the curriculum. I'm tasked with creating a food recipe website of some of my favorite meals. This project will test the fundamentals of git, github, and html. By using html, I will be able to create paragraphs, headings, links, and include media.
